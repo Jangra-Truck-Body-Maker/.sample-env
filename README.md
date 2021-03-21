@@ -13,10 +13,10 @@ Content type: application/json
       "text": "Hi"
     },
     "sender": {
-      "phone": "918x98xx21x4",
-      "name": "Smit",
+      "phone": "918645931000",
+      "name": "Parveen",
       "country_code": "91",
-      "dial_code": "8x98xx21x4"
+      "dial_code": "8645931000"
     }
   }
 }
